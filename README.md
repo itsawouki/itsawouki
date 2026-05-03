@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 I'm a professional video editor and content creator who fell in love with coding along the way. 
 
-🎬 **By trade:** I edit — Photoshop, Premiere, After Effects.  
-💻 **By passion:** I code — Python, Neovim, Arch Linux, Git.  
-📺 **On YouTube:** I run a channel with my friend where we talk computers and programming. I put as much care into our edits as I do into our code.
+🎬 **By trade:** I edit Photoshop, Premiere, After Effects.  
+💻 **By passion:** I code Python, Neovim, Arch Linux, Git.  
+📺 **On YouTube:** I run a YouTube channel called **PixelChimu**. PixelChimu is where my editing skills meet our coding obsession.
 
-I consider myself a creative first — which means I get bored doing the same thing twice. I love experimenting, learning new tools daily, and finding the intersection where clean code meets compelling visuals.
+I consider myself a creative first which means I get bored doing the same thing twice. I love experimenting, learning new tools daily, and finding the intersection where clean code meets compelling visuals.
 
-> *Editor. Coder. Creator. I don't choose one — I do both.*
