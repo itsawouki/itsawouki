@@ -1,4 +1,5 @@
 {
+  "username": "itsawouki",
   "widgets": [
     {
       "widgetId": "surveillance-header",
@@ -12,8 +13,11 @@
         "height": 417
       },
       "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Surveillance Header"
+        "accentColor": "#e6fbfb",
+        "customTitle": "Surveillance Header",
+        "modeTag": "198X MODE",
+        "secondaryColor": "#8a8a8a",
+        "ledColor": "#ffffff"
       },
       "locked": false,
       "visible": true,
@@ -41,31 +45,11 @@
       "instanceId": "widget_1789050888384_1"
     },
     {
-      "widgetId": "surveillance-feeds",
-      "name": "Surveillance-feeds Widget",
-      "position": {
-        "x": 10,
-        "y": 845
-      },
-      "size": {
-        "width": 780,
-        "height": 190
-      },
-      "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Surveillance Social Feeds"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1789050888384_2"
-    },
-    {
       "widgetId": "surveillance-loadout",
       "name": "Surveillance-loadout Widget",
       "position": {
         "x": 10,
-        "y": 1051
+        "y": 853
       },
       "size": {
         "width": 780,
@@ -107,5 +91,6 @@
     "themeMode": "dark",
     "templateStyle": "rugbedbugg"
   },
-  "templateId": "rugbedbugg"
+  "templateId": "rugbedbugg",
+  "profileSlug": "default"
 }
