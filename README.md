@@ -1,6 +1,6 @@
 ## Hi, I'm Aki
 
-I edit video for a living and code for fun — mostly because I got tired of doing the same edit twice and coding scratches that itch differently.
+I edit video for a living and code for fun, mostly because I got tired of doing the same edit twice and coding scratches that itch differently.
 
 **Editing:** Premiere, After Effects, Photoshop
 **Coding:** Python, living in Neovim on Arch, obviously Git
