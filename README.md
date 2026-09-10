@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm PixelChimu 👋
+# Hi, I'm Aki
 
 ### Video Editor & Content Creator turned Developer
 
