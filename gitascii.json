@@ -11562,28 +11562,13 @@
         "width": 536,
         "height": 160
       },
-      "config": {},
+      "config": {
+        "showPercentage": true
+      },
       "locked": false,
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1789049901260_3"
-    },
-    {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 624
-      },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1789049901260_4"
     },
     {
       "widgetId": "tech-stack",
@@ -11594,18 +11579,14 @@
       },
       "size": {
         "width": 240,
-        "height": 160
+        "height": 104
       },
       "config": {
         "selectedTechs": [
-          "js",
-          "ts",
-          "html",
-          "css",
           "py",
-          "rust",
-          "go",
-          "cpp"
+          "java",
+          "linux",
+          "git"
         ],
         "theme": "dark",
         "perLine": 4
