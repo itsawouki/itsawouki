@@ -1,5 +1,4 @@
 {
-  "username": "itsawouki",
   "widgets": [
     {
       "widgetId": "surveillance-header",
@@ -91,6 +90,5 @@
     "themeMode": "dark",
     "templateStyle": "rugbedbugg"
   },
-  "templateId": "rugbedbugg",
-  "profileSlug": "default"
+  "templateId": "rugbedbugg"
 }
